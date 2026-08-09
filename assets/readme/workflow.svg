@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">Capture Taste workflow</title>
+  <desc id="desc">Four stages: observe a trusted URL, extract evidence-backed design rules, resolve conflicts with an existing design system, and govern future agent changes.</desc>
+
+  <rect width="1200" height="390" rx="28" fill="#11110F"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" fill="#9D9A92">
+    <text x="48" y="46">FROM REFERENCE TO REPEATABLE DESIGN JUDGMENT</text>
+    <text x="1072" y="46">4 STAGES</text>
+  </g>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif">
+    <g transform="translate(48 88)">
+      <rect width="252" height="246" rx="18" fill="#1C1C19" stroke="#3B3A35"/>
+      <rect width="252" height="8" rx="4" fill="#EB684A"/>
+      <text x="22" y="48" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#EB684A">01 / OBSERVE</text>
+      <text x="22" y="88" font-size="27" font-weight="700" fill="#FFFFFF">确认信任，再观察</text>
+      <text x="22" y="127" font-size="20" fill="#B9B6AE">静态、响应式、动效、</text>
+      <text x="22" y="157" font-size="20" fill="#B9B6AE">被授权的交互状态。</text>
+      <text x="22" y="210" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" fill="#77746D">URL + VIEWPORT + STATE</text>
+    </g>
+
+    <g transform="translate(332 88)">
+      <rect width="252" height="246" rx="18" fill="#1C1C19" stroke="#3B3A35"/>
+      <rect width="252" height="8" rx="4" fill="#2D5BFF"/>
+      <text x="22" y="48" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#6F91FF">02 / EXTRACT</text>
+      <text x="22" y="88" font-size="27" font-weight="700" fill="#FFFFFF">把感觉变成规则</text>
+      <text x="22" y="127" font-size="20" fill="#B9B6AE">证据、关系、组合条件、</text>
+      <text x="22" y="157" font-size="20" fill="#B9B6AE">禁止项与置信度。</text>
+      <text x="22" y="210" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" fill="#77746D">EVIDENCE → TASTE PACK</text>
+    </g>
+
+    <g transform="translate(616 88)">
+      <rect width="252" height="246" rx="18" fill="#1C1C19" stroke="#3B3A35"/>
+      <rect width="252" height="8" rx="4" fill="#B8FF00"/>
+      <text x="22" y="48" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#B8FF00">03 / RESOLVE</text>
+      <text x="22" y="88" font-size="27" font-weight="700" fill="#FFFFFF">接入现有 Design</text>
+      <text x="22" y="127" font-size="20" fill="#B9B6AE">augment、harmonize、</text>
+      <text x="22" y="157" font-size="20" fill="#B9B6AE">migrate，冲突不静默。</text>
+      <text x="22" y="210" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" fill="#77746D">RESOLVED RULES</text>
+    </g>
+
+    <g transform="translate(900 88)">
+      <rect width="252" height="246" rx="18" fill="#1C1C19" stroke="#3B3A35"/>
+      <rect width="252" height="8" rx="4" fill="#F2C94C"/>
+      <text x="22" y="48" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#F2C94C">04 / GOVERN</text>
+      <text x="22" y="88" font-size="27" font-weight="700" fill="#FFFFFF">持续创建与审查</text>
+      <text x="22" y="127" font-size="20" fill="#B9B6AE">新组件评分、硬门槛、</text>
+      <text x="22" y="157" font-size="20" fill="#B9B6AE">跨 Agent 一致性。</text>
+      <text x="22" y="210" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" fill="#77746D">PLAN → BUILD → AUDIT</text>
+    </g>
+  </g>
+</svg>
