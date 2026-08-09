@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Fragtex254/capture-taste/releases/tag/v1.0.0">v1.0.0</a>
+  <a href="https://github.com/Fragtex254/capture-taste/tree/v1.0.1">v1.0.1</a>
   · <a href="#快速开始">快速开始</a>
   · <a href="#真实案例同一个-tcq四种-taste">真实案例</a>
   · <a href="./SKILL.md">读取 Skill</a>
@@ -219,7 +219,7 @@ capture-taste/
 
 ## 验证
 
-当前版本：`1.0.0`
+当前版本：`1.0.1`
 
 - Skill frontmatter 与命名规则通过校验；
 - JSON 模板通过语法检查；
