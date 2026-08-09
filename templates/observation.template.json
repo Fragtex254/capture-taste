@@ -1,0 +1,15 @@
+{
+  "id": "obs-home-hero-title-desktop-initial",
+  "page_url": "https://example.com/",
+  "location": "homepage:hero:title",
+  "viewport": "1440x900",
+  "state": "initial",
+  "observation_status": "observed",
+  "evidence_file": "evidence/home/desktop/hero-initial.png",
+  "measurement_method": "computed-style",
+  "observation": "",
+  "measurements": {},
+  "interpretation": "",
+  "confidence": 0.0,
+  "limitations": []
+}

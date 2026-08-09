@@ -1,0 +1,35 @@
+{
+  "source": {
+    "url": "https://example.com/",
+    "origin": "https://example.com",
+    "analyzed_at": "YYYY-MM-DDTHH:mm:ssZ",
+    "browser": "",
+    "rendering_technology": [],
+    "pages": [],
+    "viewports": [
+      "1440x900",
+      "768x1024",
+      "390x844"
+    ]
+  },
+  "trust": {
+    "level": "passive",
+    "authorized_origins": [],
+    "authorized_paths": [],
+    "confirmed_at": null,
+    "allowed_interactions": [
+      "load",
+      "wait",
+      "resize",
+      "scroll"
+    ],
+    "skipped_interactions": [],
+    "notes": ""
+  },
+  "limitations": {
+    "inaccessible_states": [],
+    "missing_resources": [],
+    "tooling_limits": [],
+    "not_observed": []
+  }
+}

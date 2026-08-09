@@ -1,0 +1,49 @@
+{
+  "version": "1.0",
+  "generated_by": {
+    "skill": "capture-taste",
+    "version": "1.0.0"
+  },
+  "entry": "TASTE.md",
+  "project_entry": null,
+  "load_order": [
+    "TASTE.md",
+    "rules/design-rules.json",
+    "transfer/brand-boundaries.md",
+    "transfer/font-decision.md",
+    "transfer/component-creation-policy.md",
+    "recipes/<relevant-component>.md",
+    "evaluation/acceptance-tests.md",
+    "evaluation/change-checklist.md"
+  ],
+  "optional_files": [
+    "rules/tokens.json",
+    "rules/motion.md",
+    "references/"
+  ],
+  "integrated_project_load_order": [
+    "integration/authority-policy.md",
+    "integration/resolved-rules.json",
+    "<relevant-existing-design-source>",
+    "TASTE.md",
+    "recipes/<relevant-component>.md",
+    "evaluation/change-checklist.md"
+  ],
+  "required_agent_steps": [
+    "read_taste_entry",
+    "cite_rule_ids",
+    "write_design_plan",
+    "implement",
+    "audit",
+    "revise"
+  ],
+  "integration": {
+    "mode": "capture",
+    "strategy": null,
+    "project_root": null,
+    "agent_instruction_files": [],
+    "managed_block_id": "capture-taste",
+    "unresolved_hard_conflicts": 0,
+    "resolved_rules_version": null
+  }
+}

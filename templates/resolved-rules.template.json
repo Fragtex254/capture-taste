@@ -1,0 +1,35 @@
+{
+  "version": "1.0",
+  "strategy": "harmonize",
+  "authority_policy": "authority-policy.md",
+  "sources": {
+    "existing_design": [],
+    "taste": "../TASTE.md"
+  },
+  "unresolved_conflicts": [],
+  "rules": [
+    {
+      "id": "resolved.attention.single-primary-action",
+      "statement": "每个主要视口只保留一个最高强调级别的行动。",
+      "scope": [
+        "global"
+      ],
+      "source_rules": [
+        {
+          "id": "taste.attention.single-primary-action",
+          "type": "taste",
+          "path": "../rules/design-rules.json"
+        }
+      ],
+      "resolution": "adopt-taste",
+      "decision_basis": "Existing Design 未定义主要行动数量，按 harmonize 策略填补空白。",
+      "constraints": {
+        "max_primary_actions_per_viewport": 1
+      },
+      "preserved": [],
+      "overridden": [],
+      "exceptions": [],
+      "status": "active"
+    }
+  ]
+}

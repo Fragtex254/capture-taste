@@ -1,0 +1,25 @@
+{
+  "id": "attention.single-dominant-focus",
+  "statement": "每个视口最多只允许一个主要视觉焦点。",
+  "category": "attention",
+  "priority": "core",
+  "provenance": "source-observed",
+  "transferability": "transferable",
+  "intent": "让用户能够立即判断阅读顺序。",
+  "constraints": {
+    "max_primary_focal_points": 1,
+    "max_high_contrast_actions": 1
+  },
+  "allowed_variations": [
+    "主要焦点可以是文字、产品画面或交互演示。"
+  ],
+  "failure_signals": [
+    "标题与大幅插图使用相同级别的对比度。",
+    "两个主要行动按钮拥有同等强调级别。"
+  ],
+  "evidence": [
+    "homepage:hero"
+  ],
+  "exceptions": [],
+  "confidence": 0.9
+}
